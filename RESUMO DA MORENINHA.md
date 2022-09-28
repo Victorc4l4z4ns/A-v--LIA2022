@@ -1,6 +1,6 @@
 ---
 created: 2022-09-28T08:35:58-03:00
-modified: 2022-09-28T08:48:02-03:00
+modified: 2022-09-28T08:50:45-03:00
 ---
 
 # RESUMO DA MORENINHA
@@ -37,5 +37,3 @@ Após um breve período de distância entre os dois, o que os leva a uma grande 
 É o momento de desfazer-se o mistério: a jovem revela o breve que um dia ganhara de um velho às vésperas de sua morte, e nele estava enrolado o camafeu pertencente a Augusto.
 
 Comovidos, concluem que a espera e a busca tinham chegado ao fim.
-
-Também a aposta antes lançada pelos amigos estava ganha: Augusto escreveria sua história, uma história de amor e final feliz, intitulada A Moreninha. COMUNICAR ERRO.
