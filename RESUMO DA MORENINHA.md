@@ -1,9 +1,25 @@
 ---
 created: 2022-09-28T08:35:58-03:00
-modified: 2022-09-28T08:50:45-03:00
+modified: 2022-09-28T09:00:36-03:00
 ---
 
 # RESUMO DA MORENINHA
+
+-filipe: estudante de medicina e irmão de Carolina .
+-Leopoldo: estudante de medicina .
+
+-fabrício : estudante de medicina.
+
+-Augusto: estudante de medicina que se apaixonou por Carolina .
+
+-Avo Ana: vó de Filipe.
+
+-joana: prima de Filipe.
+
+-joaquina: prima de Filipe.
+
+
+---
 
 O enredo inicia-se com três amigos e estudantes de Medicina, Augusto, Fabrício e Leopoldo, sendo convidados por outro colega, Filipe, para passar o dia de Sant'Ana na casa de praia de sua avó. (O mês de julho era considerado o mês de Sant'Ana.)
 
